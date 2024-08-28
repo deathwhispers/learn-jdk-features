@@ -7,6 +7,11 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>jdk8-features</name>
     <description>jdk8-features</description>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
     <url/>
     <licenses>
         <license/>
